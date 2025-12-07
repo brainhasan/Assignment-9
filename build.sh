@@ -3,7 +3,8 @@
 # Author: Siddhant Jajoo.
 
 git submodule init
-git submodule sync
+git submodule sync 
+
 git submodule update
 
 # local.conf won't exist until this step on first execution
